@@ -2,7 +2,7 @@ ConferenceBot - the hacky Conference Bot
 ===
 
 Build and tailored to the needs of [GCPR VMV VCBM 2020](gcpr-vmv-vcbm-2020.uni-tuebingen.de).
-Those were primarily providing role assignment to speakers and chairs.
+Those were primarily providing role assignment to speakers and chairs. For more information on the overall conference organization have a look into the [guideline document](https://github.com/DAGM-GCPR-VMV-VCBM-2020/ConferenceBot/blob/main/conference-media-guide_generic_v01.pdf).
 
 # Requirements
 A machine running both Java and Gradle. Preferably the latest version of both.
